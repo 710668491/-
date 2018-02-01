@@ -27,5 +27,11 @@ public class JobTwoTest {
 	public void test() {
 		System.out.println("JobTwoTest.test()");
 	}
+	public void test2() {
+		System.out.println("JobTwoTest.test()");
+	}
+	public void test3() {
+		System.out.println("JobTwoTest.test()");
+	}
 
 }
