@@ -24,5 +24,8 @@ public class JobTwoTest {
 		}
 	    		
 	}
+	public void test() {
+		System.out.println("JobTwoTest.test()");
+	}
 
 }
